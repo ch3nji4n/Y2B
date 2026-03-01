@@ -26,3 +26,6 @@
 7. 按顺序点进去 ![action-secret](imgs/action-secret.png)
 8. 把 gist id 和 token 填进去 ![git-toen](imgs/add-git-token.png) ![gist-id](imgs/add-gist-id.png)
 9. 手动触发一下 action ，看看有没有问题 ![run](imgs/run.png)
+
+## Contact
+Email: ch3nji4n@gmail.com
